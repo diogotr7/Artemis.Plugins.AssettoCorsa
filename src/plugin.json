@@ -1,0 +1,15 @@
+{
+    "Guid": "C32AA9AE-BCA1-4964-BB12-A6C042F52A0E",
+    "Name": "ArtemisCorsa",
+    "Description": "AssettoCorsa integration based on Thomsen AccTools",
+    "Author": "ArtTales",
+    "Website": "",
+    "Repository": "",
+    "Icon": "ac.png",
+    "Version": "1.0.0.0",
+    "Main": "Artemis.Plugins.Modules.ArtemisCorsa.dll",
+    "AutoEnableProperties": true,
+    "RequiresAdmin": false,
+    "Platforms": "Windows,Linux,OSX",
+    "Api": "1.0.0"
+}
